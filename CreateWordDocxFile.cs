@@ -10,6 +10,11 @@ namespace DynamicDocx
 {
     public class DynamicDocx
     {
+        /*
+        Ernest Mushinge: This class works an abstruction layer (Wrapper) with another library class that is not published
+        */
+        
+        
         //Create DocX
         public static void CreatDocX(string filepath, out WordprocessingDocument docx)
         {
